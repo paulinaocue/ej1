@@ -1,11 +1,14 @@
 body{
 	background: url(amcqueen4.jpg)no-repeat center center fixed;
 	background-size: cover;
+	font-family: font-family: 'Abril Fatface', cursive;
+	font-family: font-family: 'Quicksand', sans-serif;
+
 }
 
 #home{
 	width: 100%;
-	height: 1000%;
+	height: 100%;
 	margin: 0 auto;
 	padding: 12px;
 	background: rgba(255,255,255,9);
@@ -30,15 +33,15 @@ img{
 	max-width: 100%;
 }
 h2{
-	font-family: sans-serif;
+	font-family: font-family: 'Abril Fatface', cursive;
 	font-size: 24px;
 	font-weight: bold;
 }
 
 h1{
-	font-family: sans-serif;
+	font-family: font-family: 'Abril Fatface', cursive;
 }
 p{
-	font-family: sans-serif;
+	font-family: font-family: 'Quicksand', sans-serif;
 	font-size: 12px;
 }

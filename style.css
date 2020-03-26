@@ -24,14 +24,21 @@ width: 80%;
 article{
 width: 30%;
 	height: 1000%;
+	display: inline-block;
 	margin: 0 auto;
 	padding: 12px;
 	background: rgba(55,20,255,15);
+	vertical-align: top;
 }
 img{
 	width: 100%;
 	max-width: 100%;
 }
+
+.tagline{
+
+}
+
 h2{
 	font-family: font-family: 'Abril Fatface', cursive;
 	font-size: 24px;
